@@ -1,0 +1,26 @@
+{
+  "name": "chan-font",
+  "version": "0.2.0",
+  "homepage": "https://github.com/raibutera/chan-font",
+  "authors": [
+    "Rai Butera <rai@rbutera.com>"
+  ],
+  "description": "Chan App font",
+  "main": ["css/chan-font.css", "fonts/*"],
+  "keywords": [
+    "chan",
+    "chat",
+    "font",
+    "icon",
+    "font",
+    "ionic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
